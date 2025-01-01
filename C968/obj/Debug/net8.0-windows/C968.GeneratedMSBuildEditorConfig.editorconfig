@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = C968
-build_property.ProjectDir = C:\Users\namar\Documents\Visual Studio 2022\Repo\C968\
+build_property.ProjectDir = C:\Users\namar\Documents\C968\C968\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
