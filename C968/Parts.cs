@@ -37,3 +37,5 @@ namespace InventoryMangementSystem
         public int Min { get; set; }
     }
 }
+
+//test commit
