@@ -25,7 +25,6 @@ namespace InventoryMangementSystem
             var prodTable = new BindingSource();
             prodTable.DataSource = Inventory.Products;
             ProductsGridView.DataSource = prodTable;
-            //test commit
         }
         private void PartSearchBttn_Click(object sender, EventArgs e)
         {
